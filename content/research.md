@@ -9,7 +9,7 @@ We study the importance of contractual unpredictability on labor market particip
 
 #### Hesitating at the Altar: An Update on Taxes and the Timing of Marriage (with Margaret McKeehan)
 This paper provides evidence that U.S. tax codes dependence on marital status continues to generate an implicit marriage tax and distort marital decisions. By looking at the timing of marriage rather than the decision to marry (see Alm and Whittington (1997)) we capture a specific distortion while allowing for
-heterogeneity in other costs of marriage. Using data on couples from the Panel Study on Income Dynamics between 1986 and 2011, we find that a one percent rise in the size of the marriage tax relative to a couple’s income increases the probability of delay by 1.2 percentage points. We further demonstrate the robustness of this result across a variety of alternative specifications and assumptions regarding tax-filing behavior. [*(2018, Public Finance Review)*](http://journals.sagepub.com/doi/full/10.1177/1091142116687841)
+heterogeneity in other costs of marriage. Using data on couples from the Panel Study on Income Dynamics between 1986 and 2011, we find that a one percent rise in the size of the marriage tax relative to a couple’s income increases the probability of delay by 1.2 percentage points. We further demonstrate the robustness of this result across a variety of alternative specifications and assumptions regarding tax-filing behavior. [*(2018, Public Finance Review)*](https://journals.sagepub.com/doi/full/10.1177/1091142116687841)
 <br>
 [Code available on Github](https://github.com/npfrazier/Marriage-Tax-Study)
 
