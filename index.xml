@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick Frazier</title>
+    <link>https://npfrazier.github.io/</link>
+    <description>Recent content on Nick Frazier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://npfrazier.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://npfrazier.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://npfrazier.github.io/research/</guid>
+      <description>Research 
+An Equilibrium Model of Wage and Hours Determination: Labor Market Regulation in the Retail Sector A recent push to limit the discretion large retailers have over their employee&amp;rsquo;s schedules aims to increase predictability but at an unmeasured cost to market efficiency. Understanding the implications such policies have for a labor market where hours vary and employees have limited control over their own scheduling requires a model of why such jobs exist and also why individuals accept them.</description>
+    </item>
+    
+  </channel>
+</rss>
